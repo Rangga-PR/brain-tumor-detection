@@ -1,0 +1,67 @@
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\TreeBuilder.exe.config
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\TreeBuilder.exe
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\TreeBuilder.pdb
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.Common.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.Desktop.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.Dicom.Codec.Jpeg.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.Dicom.Codec.Rle.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.Dicom.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.ImageViewer.Common.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ClearCanvas.ImageViewer.dll
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.csprojResolveAssemblyReference.cache
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.Form1.resources
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.Properties.Resources.resources
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.csproj.GenerateResource.Cache
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.exe
+C:\Users\BIRDWINGS\Documents\Visual Studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.pdb
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.dll.config
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Imaging.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.MachineLearning.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Math.Core.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Math.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Statistics.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Imaging.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.MachineLearning.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Math.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Math.Core.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.Statistics.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\obj\Debug\TreeBuilder.dtcreator.resources
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\log4net.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\log4net.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.IO.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\TreeBuilder\bin\Debug\Accord.IO.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.dll.config
+G:\BTD\TreeBuilder\bin\Debug\TreeBuilder.exe.config
+G:\BTD\TreeBuilder\bin\Debug\TreeBuilder.exe
+G:\BTD\TreeBuilder\bin\Debug\TreeBuilder.pdb
+G:\BTD\TreeBuilder\bin\Debug\Accord.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.Imaging.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.IO.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.MachineLearning.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.Math.Core.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.Math.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.Statistics.dll
+G:\BTD\TreeBuilder\bin\Debug\ClearCanvas.Common.dll
+G:\BTD\TreeBuilder\bin\Debug\ClearCanvas.Desktop.dll
+G:\BTD\TreeBuilder\bin\Debug\ClearCanvas.Dicom.dll
+G:\BTD\TreeBuilder\bin\Debug\ClearCanvas.ImageViewer.dll
+G:\BTD\TreeBuilder\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\BTD\TreeBuilder\bin\Debug\log4net.dll
+G:\BTD\TreeBuilder\bin\Debug\Accord.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.Imaging.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.IO.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.MachineLearning.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.Math.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.Math.Core.xml
+G:\BTD\TreeBuilder\bin\Debug\Accord.Statistics.xml
+G:\BTD\TreeBuilder\bin\Debug\log4net.xml
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.csprojResolveAssemblyReference.cache
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.dtcreator.resources
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.Form1.resources
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.Properties.Resources.resources
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.csproj.GenerateResource.Cache
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.exe
+G:\BTD\TreeBuilder\obj\Debug\TreeBuilder.pdb

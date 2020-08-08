@@ -1,0 +1,67 @@
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\BTD.exe.config
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\BTD.exe
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\BTD.pdb
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.csprojResolveAssemblyReference.cache
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.Form1.resources
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.Properties.Resources.resources
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.csproj.GenerateResource.Cache
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.exe
+c:\users\birdwings\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.pdb
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\log4net.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\log4net.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\ClearCanvas.ImageViewer.Common.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\ClearCanvas.Dicom.Codec.Jpeg.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\ClearCanvas.Dicom.Codec.Rle.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\obj\Debug\BTD.auto_diagnose.resources
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.dll.config
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Controls.Imaging.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Imaging.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.IO.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.MachineLearning.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Math.Core.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Math.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Statistics.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Video.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Controls.Imaging.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Imaging.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.IO.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.MachineLearning.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Math.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Math.Core.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Statistics.xml
+C:\Users\BIRDWINGS\documents\visual studio 2017\Projects\BTD\BTD\bin\Debug\Accord.Video.xml
+G:\BTD\BTD\bin\Debug\Accord.dll.config
+G:\BTD\BTD\bin\Debug\BTD.exe.config
+G:\BTD\BTD\bin\Debug\BTD.exe
+G:\BTD\BTD\bin\Debug\BTD.pdb
+G:\BTD\BTD\bin\Debug\Accord.Controls.Imaging.dll
+G:\BTD\BTD\bin\Debug\Accord.dll
+G:\BTD\BTD\bin\Debug\Accord.Imaging.dll
+G:\BTD\BTD\bin\Debug\Accord.IO.dll
+G:\BTD\BTD\bin\Debug\Accord.MachineLearning.dll
+G:\BTD\BTD\bin\Debug\Accord.Math.Core.dll
+G:\BTD\BTD\bin\Debug\Accord.Math.dll
+G:\BTD\BTD\bin\Debug\Accord.Statistics.dll
+G:\BTD\BTD\bin\Debug\Accord.Video.dll
+G:\BTD\BTD\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\BTD\BTD\bin\Debug\log4net.dll
+G:\BTD\BTD\bin\Debug\Accord.xml
+G:\BTD\BTD\bin\Debug\Accord.Controls.Imaging.xml
+G:\BTD\BTD\bin\Debug\Accord.Imaging.xml
+G:\BTD\BTD\bin\Debug\Accord.IO.xml
+G:\BTD\BTD\bin\Debug\Accord.MachineLearning.xml
+G:\BTD\BTD\bin\Debug\Accord.Math.xml
+G:\BTD\BTD\bin\Debug\Accord.Math.Core.xml
+G:\BTD\BTD\bin\Debug\Accord.Statistics.xml
+G:\BTD\BTD\bin\Debug\Accord.Video.xml
+G:\BTD\BTD\bin\Debug\log4net.xml
+G:\BTD\BTD\obj\Debug\BTD.csprojResolveAssemblyReference.cache
+G:\BTD\BTD\obj\Debug\BTD.auto_diagnose.resources
+G:\BTD\BTD\obj\Debug\BTD.Form1.resources
+G:\BTD\BTD\obj\Debug\BTD.Properties.Resources.resources
+G:\BTD\BTD\obj\Debug\BTD.csproj.GenerateResource.Cache
+G:\BTD\BTD\obj\Debug\BTD.exe
+G:\BTD\BTD\obj\Debug\BTD.pdb
